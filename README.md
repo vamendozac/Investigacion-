@@ -1,2 +1,2 @@
-# Investigacion-
-investigación de peraciones I
+# Investigación
+investigación de operaciones I
